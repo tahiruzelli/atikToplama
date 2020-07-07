@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\ndppp\ndppp\obj\Debug\ndppp.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ndppp\ndppp\obj\Debug\ndppp.Form1.resources
+C:\Users\HP\source\repos\ndppp\ndppp\obj\Debug\ndppp.Properties.Resources.resources
+C:\Users\HP\source\repos\ndppp\ndppp\obj\Debug\ndppp.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ndppp\ndppp\bin\Debug\ndppp.exe.config
+C:\Users\HP\source\repos\ndppp\ndppp\bin\Debug\ndppp.exe
+C:\Users\HP\source\repos\ndppp\ndppp\bin\Debug\ndppp.pdb
+C:\Users\HP\source\repos\ndppp\ndppp\obj\Debug\ndppp.exe
+C:\Users\HP\source\repos\ndppp\ndppp\obj\Debug\ndppp.pdb
